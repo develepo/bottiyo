@@ -1,5 +1,5 @@
 # 🐼 Bottiyo
-
+**AI Generated Text Below**
 **A tiny desktop AI companion for local tools, browser automation, and agent experiments.**
 
 Bottiyo is an experimental desktop agent interface built around a small animated panda. It provides a lightweight way to interact with local tools and browser automation through a persistent desktop companion.
